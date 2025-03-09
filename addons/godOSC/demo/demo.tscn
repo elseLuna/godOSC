@@ -1,11 +1,11 @@
 [gd_scene load_steps=7 format=3 uid="uid://nqupygtbema1"]
 
-[ext_resource type="Script" path="res://addons/godOSC/scripts/OSCClient.gd" id="1_8dhcu"]
-[ext_resource type="Script" path="res://addons/godOSC/scripts/OSCServer.gd" id="2_ey2x6"]
-[ext_resource type="Script" path="res://addons/godOSC/demo/demo_receiver.gd" id="4_47v2p"]
-[ext_resource type="Script" path="res://addons/godOSC/demo/demo_receiver2.gd" id="5_qly6e"]
-[ext_resource type="Script" path="res://addons/godOSC/demo/test_message.gd" id="5_sb0re"]
-[ext_resource type="Script" path="res://addons/godOSC/demo/onoff.gd" id="6_4gcvd"]
+[ext_resource type="Script" uid="uid://ddqty7sgk57o5" path="res://addons/godOSC/scripts/OSCClient.gd" id="1_8dhcu"]
+[ext_resource type="Script" uid="uid://bj2m1t3r4hdsx" path="res://addons/godOSC/scripts/OSCServer.gd" id="2_ey2x6"]
+[ext_resource type="Script" uid="uid://bh23binxu0ox2" path="res://addons/godOSC/demo/demo_receiver.gd" id="4_47v2p"]
+[ext_resource type="Script" uid="uid://c2fnf7w2vcxf8" path="res://addons/godOSC/demo/demo_receiver2.gd" id="5_qly6e"]
+[ext_resource type="Script" uid="uid://b1b6l6fcmx5ey" path="res://addons/godOSC/demo/test_message.gd" id="5_sb0re"]
+[ext_resource type="Script" uid="uid://ch27ombq4flb6" path="res://addons/godOSC/demo/onoff.gd" id="6_4gcvd"]
 
 [node name="Node2D" type="Node2D"]
 
